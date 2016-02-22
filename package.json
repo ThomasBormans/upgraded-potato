@@ -1,0 +1,16 @@
+{
+  "name": "upgraded-potato",
+  "version": "0.0.1",
+  "description": "Small Node.js helpers for easier development",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasBormans/upgraded-potato.git"
+  },
+  "author": "Thomas Bormans <thomas.bormans@me.com> (http://www.thms.be)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThomasBormans/upgraded-potato/issues"
+  },
+  "homepage": "https://github.com/ThomasBormans/upgraded-potato#readme"
+}
