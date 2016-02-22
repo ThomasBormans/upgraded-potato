@@ -7,10 +7,14 @@
     "type": "git",
     "url": "git+https://github.com/ThomasBormans/upgraded-potato.git"
   },
-  "author": "Thomas Bormans <thomas.bormans@me.com> (http://www.thms.be)",
+  "author": "Thomas Bormans",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ThomasBormans/upgraded-potato/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ThomasBormans/upgraded-potato.git"
   },
   "homepage": "https://github.com/ThomasBormans/upgraded-potato#readme"
 }
