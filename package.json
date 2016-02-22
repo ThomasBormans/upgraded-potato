@@ -16,5 +16,8 @@
     "type": "git",
     "url": "git://github.com/ThomasBormans/upgraded-potato.git"
   },
-  "homepage": "https://github.com/ThomasBormans/upgraded-potato#readme"
+  "homepage": "https://github.com/ThomasBormans/upgraded-potato#readme",
+  "dependencies": {
+    "q": "^1.4.1"
+  }
 }
