@@ -31,3 +31,15 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editors
+*.sublime*
+nbproject/*
+.idea
+.settings
+.vscode/*
+typings/*
