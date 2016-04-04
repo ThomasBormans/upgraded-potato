@@ -1,11 +1,11 @@
 'use strict';
 
 // Require all lib's
-var payload = require('./lib/payload');
+var error = require('./lib/error');
 var safeJsonParse = require('./lib/safeJsonParse');
 
 // Export each lib
 module.exports = {
-	payload: payload,
+	error: error,
 	safeJsonParse: safeJsonParse
 };
